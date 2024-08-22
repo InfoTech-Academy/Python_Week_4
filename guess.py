@@ -15,4 +15,5 @@ while True:
     elif tahmin > rastgele:
         print("smaller")
         print("*****************")
-
+print("££££££££££££££££££££££££££££££££££££££££££££")
+print("new feature added")
